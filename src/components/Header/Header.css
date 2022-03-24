@@ -1,0 +1,27 @@
+.nav-bar{
+    background-color: rgba(144, 241, 196, 0.637);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 150px;
+}
+.nav-bar a{
+    text-decoration: none;
+}
+.logo{
+    font-size: 30px;
+    color: #fb3f3f;
+    font-weight: 700;
+    transition: all 0.3s;
+}
+.logo:hover{
+    color: rgba(251, 38, 10, 0.603);
+}
+
+.menu a{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 20px;
+    color: black;
+}
