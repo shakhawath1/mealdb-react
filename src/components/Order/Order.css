@@ -1,0 +1,12 @@
+.order{
+    margin-top: 20px;
+    position: sticky;
+    top: 0;
+}
+.order h5{
+    text-align: center;
+    margin: 20px;
+}
+.order p{
+    display: inline-block;
+}
